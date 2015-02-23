@@ -1,3 +1,8 @@
-# OOP_Lab
+### ProjectName
 Laboratory work on OOP
-Ichanskiy test
+
+#Description
+
+#Authors
+* Minkach
+* Ichanskiy
