@@ -1,8 +1,8 @@
-### ProjectName
+## ProjectName
 Laboratory work on OOP
 
-#Description
+####Description
 
-#Authors
+####Authors
 * Minkach
 * Ichanskiy
