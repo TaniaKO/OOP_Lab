@@ -6,3 +6,4 @@ Laboratory work on OOP
 #Authors
 * Minkach
 * Ichanskiy
+* Gornostay 
